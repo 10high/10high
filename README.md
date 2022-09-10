@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @10high
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning HTML & CSS.
-- 💞️ I’m looking to collaborate on front-end projects (but not RIGHT NOW - I'm still useless!!!)
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML, CSS JavaScript.
 
 <!---
 10high/10high is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
